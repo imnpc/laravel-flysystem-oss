@@ -1,5 +1,5 @@
 {
-    "name": "larva/laravel-flysystem-oss",
+    "name": "imnpc/laravel-flysystem-oss",
     "description": "This is a Flysystem adapter for the Aliyun OSS.",
     "keywords": [
         "flysystem",
@@ -11,7 +11,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
-        "laravel/framework": "^9.40|^10.0",
+        "laravel/framework": "^9.40|^10.0|^11.0",
         "league/flysystem": "^3.0",
         "larva/flysystem-oss": "^1.0"
     },
