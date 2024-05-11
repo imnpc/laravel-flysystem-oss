@@ -11,7 +11,7 @@
 ## 安装
 
 ```bash
-composer require larva/laravel-flysystem-oss -vv
+composer require imnpc/laravel-flysystem-oss -vv
 ```
 
 修改配置文件: `config/filesystems.php`
